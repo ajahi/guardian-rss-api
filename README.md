@@ -18,8 +18,8 @@ This project is a server-side PHP application that exposes RSS feeds for differe
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/ajahi/guardian-rss-api
+   cd guardian-rss-api
    ```
 
 2. **Install Dependencies**:
